@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="images/soil-monitoring-setup.png" alt="Soil monitoring hardware setup" width="700" />
+  <img src="images/soil-monitoring-setup.png" alt="Soil monitoring hardware setup" width="700" />   
 </p>
 
 ---
