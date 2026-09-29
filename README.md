@@ -1,7 +1,7 @@
 <h1 align="center">🌱 Soil Monitoring System</h1>
 
 <p align="center">
-  A Raspberry Pi and Python project that monitors soil conditions and supports data-driven irrigation decisions.
+  A Raspberry Pi and Python project that monitors soil conditions and supports data-driven irrigation decisions.  
 </p>
 
 <p align="center">
